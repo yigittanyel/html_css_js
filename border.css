@@ -1,0 +1,12 @@
+/*
+
+border-style:dotted,dashed,solid,double,groove,outset,
+border-right,left,top,bottom: 5px solid red;
+border-bottom-left,right-radius: 20px;
+border-collapse : collapse , separate;
+border-image: url(border.png) 30 round;
+
+#myTable {
+  caption-side:top;
+}
+*/
