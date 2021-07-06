@@ -1,0 +1,15 @@
+/*
+span:inline 
+div,h etiketleri : block
+
+display:inline -> içeriğin uzunluğu kadar yer kaplar
+        :block -> içeriğin tüm satırı kapmaması
+        :list-item -> liste gibi başına bir sembol koyup yazar ve block olarak alt alta yazar
+        
+-----------------------------
+Filter
+
+img {
+  filter: grayscale(80%);
+}
+*/
